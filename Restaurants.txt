@@ -1,0 +1,24 @@
+	McDonalds
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McDonald%27s_logo.svg/220px-McDonald%27s_logo.svg.png
+http://localhost/new/Project/mc_donalds.php
+ --7 kms away
+	Pizza Hut
+https://logowik.com/content/uploads/images/294_pizza_hut_new_logo.jpg
+http://localhost/new/Project/Pizza Hut.php
+ --12.7 kms away
+	Monginis
+https://seeklogo.com/images/M/monginis-logo-1B85208DAD-seeklogo.com.png
+http://localhost/new/Project/monginis.php
+ --8.2 kms away
+	Dominos
+https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/768px-Dominos_pizza_logo.svg.png
+http://localhost/new/Project/dominos.php
+ --9.1 kms away
+	Saffron Restaurant
+https://franchisediscovery.in/brand_images/20286297505e6a0e0675901.png
+http://localhost/new/Project/Saffron.php
+ --5.8 kms away
+	Xero Degrees
+https://xerodegrees.in/wp-content/uploads/2021/12/xero-logo.png
+http://localhost/new/Project/Xero Degrees.php
+ --7.8 kms away
