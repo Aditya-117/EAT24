@@ -4,12 +4,17 @@
         </head>
         <body>
 
-            <b><font size="+7" color="red">Mc Donald's</font></b>       
-<h2>Aloo Tikki Burger</h2>
+ <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png"> 
+		
+<form action="Cart.php" method="GET"></br>	
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>		
+<td><h2>Aloo Tikki Burger</h2></td></tr>
+</table>
 <table>
 <tr>
 <td><img src="https://mcdonaldsblog.in/wp-content/uploads/2018/04/McAloo-tikki.jpg" height="100" width="100" ></img></td>
-	<form action="Cart.php" method="GET"></br>
+	
 	<td><b><font size="+1"color="green">ADD: </front></b></td>
 	<td><input type="number" name="num1" min="0" value="ADD" style="height:20px;width:70px" ></td>
 </tr>
