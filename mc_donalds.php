@@ -4,7 +4,7 @@
         </head>
         <body>
 
- <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png" height="220" width="450"> 
+ <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png" height="240" width="350"> 
 <hr>		
 <form action="Cart.php" method="GET"></br>	
 <table><tr>
