@@ -4,7 +4,7 @@
         </head>
         <body>
 
- <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png"> 
+ <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png" height="220" width="450"> 
 		
 <form action="Cart.php" method="GET"></br>	
 <table><tr>
@@ -24,8 +24,10 @@
 </fieldset>
 	</br>
           
-
-            <h2>Mc Puff</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+   <td><h2>Mc Puff</h2></td>
+</tr></table>
 <table>
 <tr>
             <td><img src="https://scontent.fdel29-1.fna.fbcdn.net/v/t31.18172-8/15724722_1192618047458763_1500712067629883225_o.jpg?stp=cp0_dst-jpg_e15_p240x240_q65&_nc_cat=106&ccb=1-7&_nc_sid=2d5d41&_nc_ohc=Mw40CjOW6JUAX_S-sYo&_nc_ht=scontent.fdel29-1.fna&oh=00_AfBpnenbLHoV58iBmD3rVLMryQPA_dI-v8vetr6UDlBcng&oe=646629D5" height="100" width="100"></td>
@@ -39,8 +41,11 @@
 <b><font size="+1" color="green">Rs50</font></b>
 </fieldset>
 	</br>
-
-		<h2>Fries</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><h2>Fries</h2></td>
+</tr>
+</table>
 <table>
 <tr>
 	 	<td><img src="https://th.bing.com/th/id/OIP.rx4Ijpkxn3-qN6VcANpllAHaFu?pid=ImgDet&rs=1" height="100" width="100"></br></td>
@@ -55,8 +60,10 @@
 	
 </fieldset>
 
-	
-<h2>Coke</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>	
+<td><h2>Coke</h2></td>
+</tr></table>
 <table>
 <tr>
 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRst_ki8Wpm8HvbMw2FfLZ4mXDmaBq3JGeP3w&usqp=CAU height="100" width="100" ></img></td>
@@ -72,8 +79,10 @@
 </fieldset>
 
 </br>
-
-<h2>Mc Veggie Burger</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><h2>Mc Veggie Burger</h2></td>
+</tr></table>
 <table>
 <tr>
 <td><img src="https://mcdonaldsblog.in/wp-content/uploads/2021/08/McVeggie-burger-1.jpg" height="100" width="100" ></img></td>
@@ -87,8 +96,10 @@
 <b><font size="+1" color="green">Rs145</font></b>
 </fieldset>
 	</br>
-
-<h2>Mc Flurry Oreo</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><h2>Mc Flurry Oreo</h2><td>
+</tr></table>
 <table>
 <tr>
 <td><img src="https://lh3.googleusercontent.com/a3RNN5zxT39dWz_Qcx7HpqLvhST9riLXj0CU-FCvkZvQ_g91Ko5iCfirPXydtDl-YCQx9LXqwW7lCXJ4FOPibg3DqsDF5Gi2fn0MPnfD=w512-rw" height="100" width="100" ></img></td>
