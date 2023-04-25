@@ -8,12 +8,14 @@
 
             <b><font size="+7" color="red">Monginis</font></b>
 </marquee>
-       
-<h2>Cassata Regular Cakes</h2>
+<form action ="Cart.php" method="GET"></br>      
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Cassatta Regular Cakes</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://thumbs.dreamstime.com/z/sicilian-cassata-cake-candied-fruits-pistachios-chocolate-traditional-italian-easter-cake-sicilian-cassata-cake-131749417.jpg" height="100" width="100" ></img></td>
-	<form action ="Cart.php" method="GET"></br>
 	<td><b><font size="+1"color="green">ADD: </front></b></td>
 	<td><input type="number" name="num1" min="0" value="ADD" style="height:20px;width:70px" ></td>
 </tr>
@@ -26,7 +28,10 @@
 	</br>
           
 
-            <h2>Dutch Chocolate Regular Cakes</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Dutch Chocolate Regular Cakes</b></font></td>
+</table>
 <table>
 <tr>
             <td><img src="https://images.jdmagicbox.com/quickquotes/images_main/dutch-chocolate-junior-cake-2183723915-x5jxfshg.png" height="100" width="100"></td>
@@ -41,7 +46,10 @@
 </fieldset>
 	</br>
 
-		<h2>Fruit Delight Regular Cakes</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Fruit Delight Regular Cakes</b></font></td>
+</table>
 <table>
 <tr>
 	 	<td><img src="https://4.imimg.com/data4/EE/EE/GLADMIN-/https-www-monginis-net-media-catalog-product-cache-1-image-400x400-9df-6823450-500x500.jpg" height="100" width="100"></br></td>
@@ -55,7 +63,10 @@
 </fieldset>
 
 	
-<h2>Premium Vanilla Cream Roll</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Premium Vanilla Cream Roll</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_208,h_208,c_fit/xwlif1mv71iihcipizmg" height="100" width="100" ></img></td>
@@ -70,7 +81,10 @@
 
 </br>
 
-<h2>Veg Hot Dog</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Veg Hot Dog</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://b.zmtcdn.com/data/dish_photos/64f/98b77f545ef9ab4bb04ac4112997664f.jpg" height="100" width="100" ></img></td>
@@ -85,7 +99,10 @@
 
 	</br>
 
-<h2>Vanilla Small Cake</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Vanilla Small Cake</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI404173.jpg" height="100" width="100" ></img></td>
@@ -100,7 +117,10 @@
 
 <br>
 
-<h2>Choco Bomb Pastry</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Choco Bomb Pastry</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://5.imimg.com/data5/BK/HK/MY-23321574/monginis-choco-bomb-veg-pastry-500x500.png" height="100" width="100" ></img></td>
@@ -114,7 +134,10 @@
 </fieldset>
 	</br>
 
-	<h2>Fruit Toast</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Fruit Toast</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://rukminim1.flixcart.com/image/416/416/jsge4cw0/cake-pastry/y/g/d/100-bar-cake-monginis-original-imafeyhgn9bmzjvx.jpeg?q=70" height="100" width="100" ></img></td>
@@ -129,7 +152,10 @@
 	</br>
 
 
-<h2>Dark Bar chocolate</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Dark Bar Chocolate</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://www.jiomart.com/images/product/600x600/491161365/monginis-chocolate-veg-bar-cake-60-g-product-images-o491161365-p491161365-0-202203170223.jpg" height="100" width="100" ></img></td>
@@ -143,7 +169,10 @@
 </fieldset>
 	</br>
 
-<h2>Red Vel Mousse Cake</h2>
+<table><tr>
+<td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+<td><font size="+2"><b>Red Vel Mousse Cake</b></font></td>
+</table>
 <table>
 <tr>
 <td><img src="https://5.imimg.com/data5/VV/ER/MY-23321574/selection_259-1000x1000.png" height="100" width="100" ></img></td>
