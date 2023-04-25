@@ -57,7 +57,7 @@
 		<input type="radio" name="what1" value="M" ><b><font size="+1"color="green">Rs229(M)</font></b>
 		<input type="radio" name="what1" value="R" ><b><font size="+1"color="green">Rs349(L)</font></b>
 </fieldset>
-	<table><tr>
+<br>
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
 <td><font size="+2"><b>Paneer Paratha Pizza</b></font></td>
