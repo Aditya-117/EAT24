@@ -5,7 +5,8 @@
         <body>
 
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Dominos_pizza_logo.svg/768px-Dominos_pizza_logo.svg.png" height="200" width="350">   
-<form action="Cart.php" method="GET"></br>
+<hr>
+		<form action="Cart.php" method="GET"></br>
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
 <td><h2>Golden Corn</h2></td>
