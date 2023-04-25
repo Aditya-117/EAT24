@@ -5,7 +5,7 @@
         <body>
 
  <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png" height="220" width="450"> 
-		
+<hr>		
 <form action="Cart.php" method="GET"></br>	
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>		
