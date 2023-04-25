@@ -9,7 +9,7 @@
 <form action="Cart.php" method="GET"></br>	
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>		
-<td><h2>Aloo Tikki Burger</h2></td></tr>
+<td><b><font size="+2">Aloo Tikki Burger</font></b></td></tr>
 </table>
 <table>
 <tr>
@@ -26,7 +26,7 @@
           
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
-   <td><h2>Mc Puff</h2></td>
+   <td><b><font size="+2">Mc Puff</font></b></td>
 </tr></table>
 <table>
 <tr>
@@ -43,7 +43,7 @@
 	</br>
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
-<td><h2>Fries</h2></td>
+<td><b><font size="+2">Fries</font></b></td>
 </tr>
 </table>
 <table>
@@ -62,7 +62,7 @@
 
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>	
-<td><h2>Coke</h2></td>
+<td><b><font size="+2">Coke</font></b></td>
 </tr></table>
 <table>
 <tr>
@@ -81,7 +81,7 @@
 </br>
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
-<td><h2>Mc Veggie Burger</h2></td>
+<td><b><font size="+2">Mc Veggie Burger</font></b></td>
 </tr></table>
 <table>
 <tr>
@@ -98,7 +98,7 @@
 	</br>
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
-<td><h2>Mc Flurry Oreo</h2><td>
+<td><b><font size="+2">Mc Flurry Oreo</font></b><td>
 </tr></table>
 <table>
 <tr>
