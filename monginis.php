@@ -5,7 +5,7 @@
         <body>
 
 
- 	<img src="https://seeklogo.com/images/M/monginis-logo-1B85208DAD-seeklogo.com.png" heigth="100" width="240"></img>
+ 	<img src="https://seeklogo.com/images/M/monginis-logo-1B85208DAD-seeklogo.com.png" heigth="200" width="400"></img>
 <form action ="Cart.php" method="GET"></br>      
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
