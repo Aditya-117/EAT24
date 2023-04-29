@@ -1,15 +1,35 @@
 <html>
-<body>
+<body style="background-color:#FF851B;">
 
-<h1>Welcome to Food Delivery app!!!</h1>
-<hr><br>
+<form action="List.php" method="POST">
+<center>
+<img src="Screenshot 2023-04-28 185336.png" height="400" width="750"></img>
+</center><hr>
+<marquee direction="left" height=40>
+<font color="white" size="+3"><i>Now you and your favorite food are just a few clicks apart... ORDER NOW!!!</i></font>
+</marquee><hr>
 
-<form action="List.php" method="GET">
-<p><label for="add"><h2>Enter your Address:</h2>
+<center><fieldset>
+    <table><tr>
+        <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
+        <td><font color="white" size="+3"><u><b>Enter your details below:</b></u></font></td>
+        </table><br><br>
+<label for="nam"><font color="white" size="+2"><b>Name: </b></font>
+<input type="text" id="nam" name="name">
+<br><br>
+
+<label for="con"><font color="white" size="+2"><b>Contact number: (+91)</b></font>
+<input type="text" id="con" name="con">
+<br><br>
+
+
+<label for="add"><font color="white" size="+2"><b>Address:</b></font><br>
 <textarea id="add" name="add" rows="10" cols="50">
 </textarea>
-</p><br>
-<input type="submit" value="GO!">
+<br><br>
+<input type="submit" value="GO!" style="height:50px; width:100px;">
+</fieldset></center>
+
 </form>
 
 </body>
