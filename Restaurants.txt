@@ -4,7 +4,7 @@ http://localhost/new/Project/mc_donalds.php
  --7 kms away
 	Pizza Hut
 https://logowik.com/content/uploads/images/294_pizza_hut_new_logo.jpg
-http://localhost/new/Project/Pizza Hut.php
+http://localhost/new/Project/Pizza_Hut.php
  --12.7 kms away
 	Monginis
 https://seeklogo.com/images/M/monginis-logo-1B85208DAD-seeklogo.com.png
@@ -20,5 +20,5 @@ http://localhost/new/Project/Saffron.php
  --5.8 kms away
 	Xero Degrees
 https://xerodegrees.in/wp-content/uploads/2021/12/xero-logo.png
-http://localhost/new/Project/Xero Degrees.php
+http://localhost/new/Project/Xero_Degrees.php
  --7.8 kms away
