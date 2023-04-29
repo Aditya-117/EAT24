@@ -536,42 +536,45 @@ echo "<font size='+1'><b>Contact Number (+91): </b>".$con."</font><br>";
 echo "<font size='+1'><b>Address : </b>".$add."</font><br>";
 echo "</fieldset><br><br>";
 fclose($file);
+$file=fopen('amount.txt','w');
+fwrite($file,$tc);
+fclose($file);
 ?>
 
 <table><tr><td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=15 width=15></img></td>
 <td><font color='blue' size='+3'><u><b>Choose Payment Method:</b></u></font></td></tr></table><br>
 <br>
-<form>
+<form action="payment.php" method="GET">
 <table>
 <tr>
 
-<td><input type="radio" name="what"></td>
+<td><input type="radio" name="what" value="Phone Pe" required></td>
 <td><img src="https://www.ammoniaindia.org/wp-content/uploads/2021/06/phonepe-logo.png" height="90px" width="90px"></td>
 <td><b><font size="+2">Phone Pe</font></b></td>
 </tr>
 <tr>
 
-<td><input type="radio" name="what"></td>
+<td><input type="radio" name="what" value="Paytm"></td>
 <td><img src="https://static.vecteezy.com/system/resources/previews/019/040/306/original/paytm-logo-icon-free-vector.jpg" height="140px" width="140px"></td>
 <td><b><font size="+2">Paytm</font></b></td>
 </tr>
 <tr>
 
 <tr>
-<td><input type="radio" name="what"></td>
+<td><input type="radio" name="what" value="Credit/Debit Card"></td>
 <td><img src="https://img.freepik.com/premium-vector/bank-card-circle-icon-vector-illustration-flat-style-with-long-shadow_520826-1945.jpg?w=2000" height="100px" width="100px"></td>
 <td><b><font size="+2">Credit/Debit Card</font></b></td>
 </tr>
 <tr>
 
-<td><input type="radio" name="what"></td>
+<td><input type="radio" name="what" value="Cash On Delivery"></td>
 <td><img src=" https://img.freepik.com/premium-vector/cash-delivery_569841-143.jpg"height="100px" width="100px"></td>
 <td><b><font size="+2">Cash On Delivery</font></b></td>
 </tr>
 <tr>
 
 </table>
-<input type="submit" value="GO!" style="height:50px;width:200px;color:green">
+<input type="submit" value="Proceed" style="height:50px;width:200px; font-size:larger; background-color:green; color:white;">
 </form>
 
 </body>
