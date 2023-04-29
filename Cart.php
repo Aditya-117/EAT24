@@ -6,13 +6,15 @@ $file=fopen('temp.txt','r');
 $r=fgets($file);
 $tc=0;
 $ic=0;
+echo '<table><tr><td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=15 width=15></img></td>';
+echo "<td><font color='blue' size='+3'><u><b>Your Cart Details:</b></u></font></td></tr></table><br>";
+echo "<fieldset><table>";
+echo "<tr><th><font size='+1'>Item Name</font></th>";
+echo "<th><font size='+1'>Quantity&nbsp;&nbsp;</font></th>";
+echo "<th><font size='+1'>Cost</font></th></tr>";
 
 if($r=="Mc Donald's")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=6;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -51,25 +53,18 @@ if($r=="Mc Donald's")
 		break;
 		}
 			
-			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
-			echo "</tr>";			
-			$tc=$tc+($quan*$ic);
+		echo "<tr>";
+		echo "<td><font size='+1'>".$n."</font></td>";
+		echo "<td><font size='+1'>".$quan."</font></td>";
+		echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
+		echo "</tr>";			
+		$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
 
 else if($r=="Pizza Hut")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=8;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -246,25 +241,18 @@ else if($r=="Pizza Hut")
 		$n="Masala Lemonade";
 		break;
 		}	
-			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
-			echo "</tr>";			
-			$tc=$tc+($quan*$ic);
+		echo "<tr>";
+		echo "<td><font size='+1'>".$n."</font></td>";
+		echo "<td><font size='+1'>".$quan."</font></td>";
+		echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
+		echo "</tr>";			
+		$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
 
 else if($r=="Xero Degrees")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=7;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -323,25 +311,18 @@ else if($r=="Xero Degrees")
 		break;
 		}
 			
-			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
-			echo "</tr>";			
-			$tc=$tc+($quan*$ic);
+		echo "<tr>";
+		echo "<td><font size='+1'>".$n."</font></td>";
+		echo "<td><font size='+1'>".$quan."</font></td>";
+		echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
+		echo "</tr>";			
+		$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
 
 else if($r=="Monginis")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=10;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -382,25 +363,18 @@ else if($r=="Monginis")
 		
 		}
 			
-			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
-			echo "</tr>";			
-			$tc=$tc+($quan*$ic);
+		echo "<tr>";
+		echo "<td><font size='+1'>".$n."</font></td>";
+		echo "<td><font size='+1'>".$quan."</font></td>";
+		echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
+		echo "</tr>";			
+		$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
 
 else if($r=="Domino's Pizza")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=10;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -481,25 +455,18 @@ else if($r=="Domino's Pizza")
 		$n="Butterscotch Mousse Cake";
 		break;
 		}	
-			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
-			echo "</tr>";			
-			$tc=$tc+($quan*$ic);
+		echo "<tr>";
+		echo "<td><font size='+1'>".$n."</font></td>";
+		echo "<td><font size='+1'>".$quan."</font></td>";
+		echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
+		echo "</tr>";			
+		$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
 
 else if($r=="Saffron")
 {
-	echo "<table>";
-	echo "<tr><th>Item Name</th>";
-	echo "<th>Quantity</th>";
-	echo "<th>Cost</th></tr>";
 	for($i=1;$i<=9;$i++)
 	{
 		$quan=$_GET['num'.$i];
@@ -537,18 +504,75 @@ else if($r=="Saffron")
 		}
 			
 			echo "<tr>";
-			echo "<td>".$n."</td>";
-			echo "<td>".$quan."</td>";
-			echo "<td>".($quan*$ic)."</td>";
+			echo "<td><font size='+1'>".$n."</font></td>";
+			echo "<td><font size='+1'>".$quan."</font></td>";
+			echo "<td><font size='+1'>".($quan*$ic)."</font></td>";
 			echo "</tr>";			
 			$tc=$tc+($quan*$ic);
 		}
 	}
-	echo "<tr><td><b>Total Cost: </b></td>";
-	echo "<td>".$tc."</td></tr>";
-	echo "</table>";
 }
+$gst=0.18*$tc;
+echo "<tr><td><font size='+1'><b>GST(18%) :&nbsp;</b></font></td>";
+echo "<td><font size='+1'>".$gst."</font></td></tr>";
+echo "<tr><td><font size='+1'><b>Delivery Charges :&nbsp;</b></font></td>";
+echo "<td><font size='+1'>60</font></td></tr>";
+$tc=$tc+$gst+60;
+echo "<tr><td><font size='+1'><b>Total Cost : </b></font></td>";
+echo "<td><font size='+1'>".$tc."</font></td></tr>";
+echo "</table></fieldset><br><br>";
+echo '<table><tr><td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=15 width=15></img></td>';
+echo "<td><font color='blue' size='+3'><u><b>Your Personal Details:</b></u></font></td></tr></table><br>";
+echo "<fieldset>";
+fclose($file);
+$file=fopen('userdetails.txt','r');
+$name=fgets($file);
+$con=fgets($file);
+$add="";
+while(!feof($file))
+$add=$add.fgets($file);
+echo "<font size='+1'><b>Name : </b>".$name."</font><br>";
+echo "<font size='+1'><b>Contact Number (+91): </b>".$con."</font><br>";
+echo "<font size='+1'><b>Address : </b>".$add."</font><br>";
+echo "</fieldset><br><br>";
+fclose($file);
 ?>
+
+<table><tr><td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=15 width=15></img></td>
+<td><font color='blue' size='+3'><u><b>Choose Payment Method:</b></u></font></td></tr></table><br>
+<br>
+<form>
+<table>
+<tr>
+
+<td><input type="radio" name="what"></td>
+<td><img src="https://www.ammoniaindia.org/wp-content/uploads/2021/06/phonepe-logo.png" height="90px" width="90px"></td>
+<td><b><font size="+2">Phone Pe</font></b></td>
+</tr>
+<tr>
+
+<td><input type="radio" name="what"></td>
+<td><img src="https://static.vecteezy.com/system/resources/previews/019/040/306/original/paytm-logo-icon-free-vector.jpg" height="140px" width="140px"></td>
+<td><b><font size="+2">Paytm</font></b></td>
+</tr>
+<tr>
+
+<tr>
+<td><input type="radio" name="what"></td>
+<td><img src="https://img.freepik.com/premium-vector/bank-card-circle-icon-vector-illustration-flat-style-with-long-shadow_520826-1945.jpg?w=2000" height="100px" width="100px"></td>
+<td><b><font size="+2">Credit/Debit Card</font></b></td>
+</tr>
+<tr>
+
+<td><input type="radio" name="what"></td>
+<td><img src=" https://img.freepik.com/premium-vector/cash-delivery_569841-143.jpg"height="100px" width="100px"></td>
+<td><b><font size="+2">Cash On Delivery</font></b></td>
+</tr>
+<tr>
+
+</table>
+<input type="submit" value="GO!" style="height:50px;width:200px;color:green">
+</form>
 
 </body>
 </html>
