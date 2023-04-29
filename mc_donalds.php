@@ -5,6 +5,9 @@
         <body>
 
  <img src="https://purepng.com/public/uploads/large/purepng.com-mcdonalds-logologobrand-logoiconslogos-25151994043391qrj.png" height="240" width="350"> 
+<center><p align="right">
+<font color="green" size="+1"><b><u>Phone Number :(+91) </u></b>5765994362</font>
+</p></center>
 <hr>		
 <form action="Cart.php" method="GET"></br>	
 <table><tr>
