@@ -4,7 +4,11 @@
         </head>
         <body>
 
-                 <img src="https://franchisediscovery.in/brand_images/20286297505e6a0e0675901.png" height="120" width="350" ></img><hr>
+                 <img src="https://franchisediscovery.in/brand_images/20286297505e6a0e0675901.png" height="120" width="350" ></img>
+<center><p align="right">
+<font color="green" size="+1"><b><u>Phone Number :(+91) </u></b>6437894103</font>
+</p></center>
+<hr>
 
 <form action="Cart.php" method="GET">
 <table><tr>
