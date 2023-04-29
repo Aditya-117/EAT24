@@ -5,6 +5,9 @@
         <body>
 
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpuOca2x1e2vHeXJnuXSCIh18M5cfpF-BKOw&usqp=CAU" height="100" width="450"></img>
+<center><p align="right">
+<font color="green" size="+1"><b><u>Phone Number :(+91) </u></b>9975624658</font>
+</p></center>
 <hr>
 		<form action="Cart.php" method="GET"></br>
 <table><tr>
