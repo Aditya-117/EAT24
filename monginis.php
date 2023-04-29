@@ -6,6 +6,12 @@
 
 
  	<img src="https://seeklogo.com/images/M/monginis-logo-1B85208DAD-seeklogo.com.png" heigth="200" width="400"></img>
+<center><p align="right">
+<font color="green" size="+1"><b><u>Phone Number :(+91) </u></b>7443981425</font>
+</p></center>
+
+<hr>
+
 <form action ="Cart.php" method="GET"></br>      
 <table><tr>
 <td><img src="https://static.thenounproject.com/png/4084271-200.png" heigth=10 width=10></img></td>
