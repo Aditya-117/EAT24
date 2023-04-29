@@ -545,7 +545,7 @@ fclose($file);
 <td><font color='blue' size='+3'><u><b>Choose Payment Method:</b></u></font></td></tr></table><br>
 <br>
 <form action="payment.php" method="GET">
-<table>
+<fieldset><table>
 <tr>
 
 <td><input type="radio" name="what" value="Phone Pe" required></td>
@@ -575,7 +575,7 @@ fclose($file);
 
 </table>
 <input type="submit" value="Proceed" style="height:50px;width:200px; font-size:larger; background-color:green; color:white;">
-</form>
+</fieldset></form>
 
 </body>
 </html>
